@@ -1,4 +1,5 @@
 3. O que é versionamento de código e por que ele é essencial no
 desenvolvimento colaborativo de software?
 
-R: 
+R: Versionamento de software é um processo para o controle de versões que é realizado para o acompanhamento das inumeras modificações que ocorrem a cada novo lançamento. A metodologia é útil para os programadores que estão sempre atentos às modificações realizadas nos softwares com o objetivo de propiciar o uso de ferramentas otimizadas.
+A metodologia de versionamento é importante para impedir a ocorrência de confusão sobre as versões dos softwares que estão em uso e evitar ataques cibernéticos. Ela é uma questão estratégica no desenvolvimento dos programas, sendo que os códigos de segurança necessitam de patches ou remendos para corrigir vulnerabilidades. Veja, a seguir, outras razões pelas quais o processo de controle de versões é relevante!
