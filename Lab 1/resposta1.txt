@@ -3,4 +3,4 @@ Web no contexto da evolução da internet. Como essas tecnologias
 mudaram a forma como a informação é compartilhada
 globalmente?
 
-R: 
+R: O surgimento do HTML e da World Wide Web são marcos fundamentais na evolução da internet, na diminuição das distancias de forma virtual e em um aumento na troca de conhecimentos e avanços cientificos, transformando uma rede restrita a especialistas em uma plataforma global e acessível a todos e em qualquer local do globo. O HTML, possibilitou a criação de páginas web interconectadas, enquanto a WWW forneceu o ambiente para navegar por elas. Essa combinação democratizou o acesso à informação, impulsionando a comunicação global, o comércio eletrônico e o desenvolvimento de novas formas de interação social. A internet, como a conhecemos hoje, é um produto direto dessa revolução, que tornou a informação mais democrática, conectou pessoas em todo o mundo e impulsionou o crescimento de diversos setores da sociedade.
